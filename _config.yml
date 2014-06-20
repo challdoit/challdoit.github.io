@@ -1,0 +1,10 @@
+# Site settings
+title: challdoit
+email: david@challdoit.com
+description: "Set a Challenge and Do It"
+baseurl: ""
+url: "http://challdoit.github.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
